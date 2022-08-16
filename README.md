@@ -13,4 +13,4 @@ python -m pip install pygame
 or
 ` 
 conda install pygame
-`
+`.
